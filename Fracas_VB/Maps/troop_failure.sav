@@ -1,0 +1,34 @@
+;Fracas 2.0 BETA 1 by Jason Merlo
+;http://www.smozzie.com
+;jmerlo@austin.rr.com
+
+{Map Path}
+d:\fracas\Maps\troop_failure.map
+MatchToStamp=6:52:39 PM
+
+{Game Data}
+Turn=6
+Phase=1
+TurnCounter=2
+
+{Country Data}
+C1=1,25,0,1
+C2=2,999,0,3
+C3=1,49,3,1
+C4=4,2,0,9
+C5=5,54,3,7
+C6=3,2,1,5
+C7=4,53,3,9
+C8=5,0,0,7
+C9=6,51,3,4
+C10=3,56,3,5
+C11=3,23,0,5
+C12=4,2,0,9
+
+{Player Data}
+Player1=2,74
+Player2=-1,0
+Player3=3,81
+Player4=3,57
+Player5=2,54
+Player6=1,51

@@ -1,0 +1,39 @@
+;Fracas 2.0 BETA by Jason Merlo
+;http://www.smozzie.com
+;jmerlo@austin.rr.com
+
+{Map Path}
+D:\Fracas\Maps\aa.map
+
+{Game Data}
+Turn=1
+Phase=1
+TurnCounter=1
+
+{Country Data}
+C1=0,57,0,6
+C2=1,0,2,1
+C3=2,101,0,8
+C4=6,0,0,4
+C5=0,62,0,6
+C6=6,173,2,4
+C7=4,189,2,10
+C8=0,65,0,6
+C9=0,56,0,6
+C10=2,82,2,8
+C11=3,0,0,5
+C12=5,106,0,7
+C13=3,184,2,5
+C14=4,0,0,10
+C15=0,74,0,6
+C16=0,40,0,6
+C17=5,82,2,7
+C18=1,174,0,1
+
+{Player Data}
+Player1=2,174
+Player2=2,183
+Player3=2,184
+Player4=2,189
+Player5=2,188
+Player6=2,173

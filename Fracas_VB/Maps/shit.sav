@@ -1,0 +1,39 @@
+;Fracas 2.0 BETA by Jason Merlo
+;http://www.smozzie.com
+;jmerlo@austin.rr.com
+
+{Map Path}
+D:\Fracas\Maps\shit.map
+
+{Game Data}
+Turn=1
+Phase=2
+TurnCounter=2
+
+{Country Data}
+C1=4,48,2,10
+C2=0,46,0,6
+C3=5,0,0,7
+C4=0,79,0,6
+C5=0,49,0,6
+C6=1,100,2,1
+C7=0,60,0,6
+C8=0,97,0,6
+C9=2,95,2,8
+C10=0,99,0,6
+C11=0,43,0,6
+C12=0,67,0,6
+C13=5,174,2,7
+C14=6,111,0,4
+C15=0,52,0,6
+C16=0,77,0,6
+C17=6,52,2,4
+C18=3,95,2,5
+
+{Player Data}
+Player1=1,100
+Player2=1,95
+Player3=1,95
+Player4=1,48
+Player5=2,174
+Player6=2,163
