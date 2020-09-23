@@ -1,0 +1,38 @@
+
+[OPTIONS]
+ERRORLOG=Fracas.ERR
+COMPRESS=0x0
+LCID=0x0409 0x0 0x0
+CONTENTS=Contents
+INDEX_SEPARATORS=","
+TITLE=Fracas
+COPYRIGHT=Copyright ©
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[WINDOWS]
+main="Fracas Help",(215,133,594,758),0x6604,(215,235,255),(255,240,255),0
+
+[FILES]
+Fracas.RTF
+
+[BAGGAGE]
+\LANDMASS\HELPFILE\MAP.BMP
+
+[CONFIG]
+BrowseButtons ()
